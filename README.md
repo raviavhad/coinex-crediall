@@ -37,10 +37,11 @@ The application displays transactions for each cryptocurrency, including Filecoi
 
 
 
-This is accomplished through an **established technology stack that enables us to operate with the agility, scale, and ease of integration required in an ecosystem**. Outsystems is a low-code platform that enables the delivery of experiences to users across many channels – web, mobile Android, and iOS. Node.js is used to construct APIs on top of the CoinEx  blockchain and Filecoin, which may be consumed by an ecommerce platform or the Crediall app, depending on the demoed functionalities. Balance and transfer APIs have been developed, as well as an **underlying  API that is based on the Filecoin account ID**.
+This is accomplished through an **established technology stack that enables us to operate with the agility, scale, and ease of integration required in an ecosystem**. Outsystems is a low-code platform that enables the delivery of experiences to users across many channels – web, mobile Android, and iOS. Node.js is used to construct APIs on top of the CoinEx  blockchain and Filecoin, which may be consumed by an ecommerce platform or the Crediall app, depending on the demoed functionalities. Balance and transfer APIs have been developed, as well as an **underlying  API that is based on the CoinEx smart contract**.
 
-##Challenges we ran into
-Initially, bringing numerous wallet coins to Crediall as a **unified platform** presented some issues. Through Crediall, we were able to integrate Filecoin, Solana, and CoinEx  chains into the solution for the Hackathon. We linked OutSystems' low-code platform with the Filecoin environment to enable API-driven transactions. Initially, we encountered integration challenges, but we were able to integrate our application quickly.
+## Challenges we ran into
+Initially, bringing numerous wallet coins to Crediall as a **unified platform** presented some issues. Through Crediall, we were able to integrate 
+, Solana, and CoinEx  chains into the solution for the Hackathon. We linked OutSystems' low-code platform with the Filecoin environment to enable API-driven transactions. Initially, we encountered integration challenges, but we were able to integrate our application quickly.
 
 ## Accomplishments that we're proud of
 Crediall's extensibility allows for the addition of other wallets and interoperability with e-commerce systems such as Amazon, Shopify, and others. Crediall was conceptualised and implemented as an additional token to complement BNPL's methods of financing in order to target untapped shoppers. Aligned with Web 3.0 standards, with transparency, openness, and scalability at its core
