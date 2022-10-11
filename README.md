@@ -16,7 +16,8 @@ Customers use the Crediall platforms for their transactions **online or offline 
 One the Crediall transaction completes and the **NFT Tokens as rewards are credited to customers wallet for future use**. Customer can either **use those NFT tokens or trade them online** to amplify the gains from his transaction. This service allows for **greater transparency and security of buying, selling, and lending of physical goods as well as digital goods and assets**.
 A large majority of NFTs today are digital assets, and we feel this technology is being greatly under-utilized at the moment. With funders we are striving for **optimal integration of BNPL, CoinEx , Filecoin and NFTs for benefits of customer today and in future**.
 
-![process-2](https://user-images.githubusercontent.com/107539208/181494165-6e018c74-46b7-468b-941b-f6fcaf839a01.gif)
+<img width="960" alt="Process" src="https://user-images.githubusercontent.com/20425788/195113177-8a203814-8b1c-42d2-a14b-2b70b6a79f9b.png">
+
 
 
 Crediall is a decentralized exchange protocol that runs on the **BNPL platform**, which is built on the CoinEx  blockchain and Filecoin. Crediall is a **forward-thinking** platform that aims to share advantages with all participants. We are aiming to create a **market for everyday transactions and micropayments using Crypto and BNPL**. The platform includes third-party applications, merchants, online retail stores, and the world's most well-known staking mechanism. Introducing the **Crediall token**, a reward system based on predefined events such as purchase or instalment payment. Crediall brings two distinct sets of capabilities.
