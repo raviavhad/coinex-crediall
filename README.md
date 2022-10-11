@@ -31,7 +31,8 @@ The application displays transactions for each cryptocurrency, including Filecoi
 
 
 
-![Crediall Architecture](https://user-images.githubusercontent.com/20425788/195112205-3117c43e-16de-4e43-b665-79eeb4bba291.jpg)
+![Crediall Architecture](https://user-images.githubusercontent.com/20425788/195113815-1fb517ca-5b5e-4e61-93cf-c7292b53c3f8.jpg)
+
 
 
 
